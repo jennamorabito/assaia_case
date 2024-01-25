@@ -1,0 +1,5 @@
+.python-version
+case_data.csv
+venv
+*.log
+__pycache__
