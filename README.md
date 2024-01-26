@@ -16,6 +16,7 @@
 - Dig into the correlations, play with correlating different variables
 - Do some more rigorous statistical analysis; a regression analysis would be a good place to start
 - Deploy my app live so people can access it with just a link
+- Add filtering and interactivity to the visualizations so people could explore differences by plane type, airline, etc.
 
 ### Python version
 3.10.11
