@@ -1,5 +1,6 @@
 .python-version
-case_data.csv
-venv
 *.log
 __pycache__
+data
+venv
+column_names.txt
