@@ -1,0 +1,158 @@
+Year of Aircraft Start Ts
+Aircraft Start Ts
+A Actual In Block Time
+A Actual Landing Time
+A Actual On Block Utc
+A Aircraft Type
+A Company Iata
+A Data Hash
+A Departure Airport
+A Departure Or Arrival
+A Estimated On Block Time
+A Estimated On Block Utc
+A Flight Status
+A Origin Date
+A Original Stand Id
+A Returned To Gate
+A Scheduled Date Time
+A Scheduled On Block Utc
+A Stand Id
+Acu Hose End Ts
+Acu Hose Start Ts
+Aircraft End Ts
+Aircraft On Stand End Ts
+Aircraft On Stand Start Ts
+Back Belt End Ts
+Back Belt Start Ts
+Back Cargo Bulk End Ts
+Back Cargo Bulk Start Ts
+Back Cargo End Ts
+Back Cargo Start Ts
+Back Highloader End Ts
+Back Highloader Start Ts
+Back Left Catering Guard Rail End Ts
+Back Left Catering Guard Rail Start Ts
+Back Left Catering On Stand End Ts
+Back Left Catering On Stand Start Ts
+Back Left Catering Truck End Ts
+Back Left Catering Truck Start Ts
+Back Right Belt End Ts
+Back Right Belt Start Ts
+Back Right Cargo Bulk End Ts
+Back Right Cargo Bulk Start Ts
+Back Right Cargo End Ts
+Back Right Cargo Start Ts
+Back Right Catering Guard Rail End Ts
+Back Right Catering Guard Rail Start Ts
+Back Right Catering On Stand End Ts
+Back Right Catering On Stand Start Ts
+Back Right Catering Truck End Ts
+Back Right Catering Truck Start Ts
+Belt End Ts
+Belt Start Ts
+Bridge Alt End Ts
+Bridge Alt Start Ts
+Bridge End Ts
+Bridge Parked End Ts
+Bridge Parked Start Ts
+Bridge Start Ts
+Cargo End Ts
+Cargo Start Ts
+Catering End Ts
+Catering Start Ts
+Chocks End Ts
+Chocks Start Ts
+D Actual Off Block Time
+D Actual Off Block Utc
+D Aircraft Type
+D Arrival Airport
+D Company Iata
+D Data Hash
+D Departure Or Arrival
+D Estimated Off Block Time
+D Estimated Off Block Utc
+D Flight Status
+D Origin Date
+D Original Stand Id
+D Returned To Gate
+D Scheduled Date Time
+D Scheduled Off Block Utc
+D Stand Id
+End Ts
+Front Belt End Ts
+Front Belt Guard Rail Not Deployed End Ts
+Front Belt Guard Rail Not Deployed Start Ts
+Front Belt Start Ts
+Front Cargo Bulk End Ts
+Front Cargo Bulk Start Ts
+Front Cargo End Ts
+Front Cargo Start Ts
+Front Catering Guard Rail End Ts
+Front Catering Guard Rail Start Ts
+Front Catering On Stand End Ts
+Front Catering On Stand Start Ts
+Front Catering Truck End Ts
+Front Catering Truck Start Ts
+Front Highloader End Ts
+Front Highloader Start Ts
+Front Stairs End Ts
+Front Stairs Start Ts
+Fueling End Ts
+Fueling On Stand End Ts
+Fueling On Stand Start Ts
+Fueling Right End Ts
+Fueling Right On Stand End Ts
+Fueling Right On Stand Start Ts
+Fueling Right Start Ts
+Fueling Start Ts
+Gp Together End Ts
+Gp Together Start Ts
+Ground Power End Ts
+Ground Power Start Ts
+Highloader End Ts
+Highloader Start Ts
+Human Without Vest End Ts
+Human Without Vest Start Ts
+Id
+Last Updated
+Left Chocks End Ts
+Left Chocks Start Ts
+Left Engine Cone End Ts
+Left Engine Cone Start Ts
+Middle Bridge Alt End Ts
+Middle Bridge Alt Start Ts
+Middle Left Catering Truck End Ts
+Middle Left Catering Truck Start Ts
+Object Track Not Stopped End Ts
+Object Track Not Stopped Start Ts
+Onboard Airstair End Ts
+Onboard Airstair Start Ts
+One Back Left Catering Guard Rail End Ts
+One Back Left Catering Guard Rail Start Ts
+One Back Right Catering Guard Rail End Ts
+One Back Right Catering Guard Rail Start Ts
+One Front Catering Guard Rail End Ts
+One Front Catering Guard Rail Start Ts
+Push Back End Ts
+Push Back Start Ts
+Pushback End Ts
+Pushback On Stand End Ts
+Pushback On Stand Start Ts
+Pushback Start Ts
+Right Chocks End Ts
+Right Chocks Start Ts
+Right Engine Cone End Ts
+Right Engine Cone Start Ts
+Small Tbl Push Back End Ts
+Small Tbl Push Back Start Ts
+Stairs End Ts
+Stairs Start Ts
+Stand Not Clear End Ts
+Stand Not Clear Start Ts
+Start Ts
+Tail Stand End Ts
+Tail Stand Start Ts
+Tbl Push Back End Ts
+Tbl Push Back Start Ts
+Turnaround Id
+Turnaround Type
